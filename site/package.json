@@ -1,0 +1,8 @@
+{
+  "name": "qui-est-le-plus",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Jeu entre potes : qui est le + ? Votes anonymes en temps réel.",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}

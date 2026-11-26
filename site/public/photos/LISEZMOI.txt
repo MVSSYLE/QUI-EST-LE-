@@ -1,0 +1,4 @@
+Une photo par blaze, au format JPG carré, nommée avec le blaze en minuscules :
+ecta.jpg, ilalol.jpg, dada.jpg, tomlamoula.jpg, titi.jpg, tkng.jpg, massyle.jpg,
+hugo.jpg, achille.jpg, guigz.jpg, flo.jpg, noah.jpg, charly.jpg, lolo.jpg, maskadow.jpg
+Sans photo, le jeu affiche la première lettre du blaze.
